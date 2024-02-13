@@ -1,0 +1,16 @@
+target/
+
+### IntelliJ IDEA ###
+.idea/
+
+### VS Code ###
+.vscode/
+
+### BSP ###
+.bsp/
+
+### Mac OS ###
+.DS_Store
+
+### Kafka Docker ###
+broker-data/
